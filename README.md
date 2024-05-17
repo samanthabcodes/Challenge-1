@@ -2,10 +2,14 @@
 
 ## To refactor this code to be accessible and organized.
 
-- My motivation for this project was twofold. The main priority was to refactor the code so that it was accessble. In doing so, I was able to produce code that was cleaner, increasing organization and making it more readable for fellow programmers.
+- My motivation for this project was twofold. The main priority was to refactor the code so that it was accessible. In doing so, I was able to produce code that was cleaner, increasing organization and making it more readable for fellow programmers.
 - I built this product so that people with sight limitations would be able to easily use the website.
-- The problem I've been able to solve was that the code as it was was unorganized and not set up for people who use screenreaders.
-- I learned many things during this project. The most important thing I learned is that messy code is just that- messy. It was hard for me to decipher what was what at a glance. It provided a glimpse into how confusing it would be to interect with the code or website as somebody with vision limitations. The next thing I learned was how to correctly section DIVs.
+- The problem I've been able to solve was that the code as it was was unorganized and not set up for people who use screen readers.
+- I learned many things during this project. The most important thing I learned is that messy code is just that- messy. It was hard for me to decipher what was what at a glance. It provided a glimpse into how confusing it would be to interact with the code or website as somebody with vision limitations. The next thing I learned was how to correctly section DIVs.
+
+# URL
+
+https://samanthabcodes.github.io/Challenge-1/
 
 ## Screenshot
 
